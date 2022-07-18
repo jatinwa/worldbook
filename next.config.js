@@ -4,6 +4,7 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  // urls
   images: {
     domains: [
       'lh3.googleusercontent.com',
